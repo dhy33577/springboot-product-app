@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>商品管理系统</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>商品管理系统</h1>
+    <div class="form-container">
+        <input type="text" id="category" placeholder="分类">
+        <input type="text" id="model" placeholder="型号">
+        <input type="number" id="price" placeholder="价格">
+        <input type="number" id="stock" placeholder="库存">
+        <input type="text" id="description" placeholder="描述">
+        <button onclick="addProduct()">添加商品</button>
+    </div>
+    <h2>商品列表</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>分类</th>
+            <th>型号</th>
+            <th>价格</th>
+            <th>库存</th>
+            <th>描述</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody id="product-list"></tbody>
+    </table>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
