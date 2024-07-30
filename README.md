@@ -37,4 +37,4 @@
 
 ## 演示截图
 
-![](C:\Users\DHY\Desktop\屏幕截图 2024-07-31 014635.png)
+[![](C:\Users\DHY\Desktop\屏幕截图 2024-07-31 014635.png)](https://github.com/dhy33577/springboot-product-app/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-31%20014635.png)
