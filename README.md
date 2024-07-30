@@ -36,5 +36,4 @@
 在表格中，每个商品行都有一个“删除”按钮。点击该按钮后，相应的商品会从数据库中删除，并且表格会更新以反映这一变化。
 
 ## 演示截图
-
-[![](C:\Users\DHY\Desktop\屏幕截图 2024-07-31 014635.png)](https://github.com/dhy33577/springboot-product-app/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-31%20014635.png)
+https://github.com/dhy33577/springboot-product-app/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-31%20014635.png
